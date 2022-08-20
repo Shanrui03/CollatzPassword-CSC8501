@@ -1,0 +1,18 @@
+﻿  Collatz Password Manager.cpp
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\Collatz Password Manager.cpp(28,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\Collatz Password Manager.cpp(80,21): warning C4018: “<”: 有符号/无符号不匹配
+  decryption.cpp
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\decryption.cpp(345,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\decryption.cpp(454,27): warning C4018: “<”: 有符号/无符号不匹配
+  HashTable.cpp
+  StrengthTest.cpp
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\StrengthTest.cpp(13,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\StrengthTest.cpp(291,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\StrengthTest.cpp(308,20): warning C4018: “<”: 有符号/无符号不匹配
+  User.cpp
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\User.cpp(13,20): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\User.cpp(125): warning C4715: “User::Authenticating”: 不是所有的控件路径都返回值
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\HashTable.cpp(46): warning C4715: “HashTable::Decryption_by_HashTable”: 不是所有的控件路径都返回值
+D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\210029394 coursework\Collatz Password Manager.cpp(202): warning C4715: “menu”: 不是所有的控件路径都返回值
+  210029394 coursework.vcxproj -> D:\210029394 R.Shan coursework final edition\Coursework (1)\Coursework\210029394 coursework\Debug\210029394 coursework.exe
